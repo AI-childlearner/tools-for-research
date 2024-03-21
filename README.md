@@ -11,3 +11,12 @@ You can search for a scholar's publications. Limitation: You need to know his ho
 根据搜索结果，获取对应的github代码和论文。
 According to the search results, obtain the corresponding github code and papers.
 ## linux tools
+# 1.compress.sh
+-compress.sh
+-1.pdf
+-2.pdf
+把compress.sh放在pdf所在的文件夹中。
+Put compress.sh in the folder where the pdf is located.
+运行：(run:)
+chmod +x compress.sh
+./compress.sh
