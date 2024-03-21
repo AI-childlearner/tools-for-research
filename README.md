@@ -7,6 +7,8 @@ You can search for papers related to your research field (filterable conditions:
 # 2.scholarperson.py
 你可以搜索某个学者的发表。限制：你需要知道他的主页。  
 You can search for a scholar's publications. Limitation: You need to know his home page.  
+运行：(run:)
+
 # 3.getcodeandpaper.py
 根据搜索结果，获取对应的github代码和论文。  
 According to the search results, obtain the corresponding github code and papers.  
