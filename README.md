@@ -15,8 +15,8 @@ According to the search results, obtain the corresponding github code and papers
 -compress.sh
 -1.pdf
 -2.pdf
-把compress.sh放在pdf所在的文件夹中。
-Put compress.sh in the folder where the pdf is located.
+把compress.sh放在pdf所在的文件夹中。  
+Put compress.sh in the folder where the pdf is located.  
 运行：(run:)  
 chmod +x compress.sh  
 ./compress.sh
