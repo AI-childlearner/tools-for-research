@@ -1,5 +1,7 @@
 tools-for-research  
-科研工具  
+科研工具
+Keywords: google scholar;research;reptile
+关键词：谷歌学术；科研；爬虫
 # python tools
 ## 1.scholarpaper.py
 你可以搜索你的研究领域相关的论文（可筛选条件：时间、来源，可按引用量排序）。限制：你可以搜索每年的至多1000篇论文。  
